@@ -31,7 +31,7 @@ view.html   --[삭제]-->  confirm() 확인창
 
 ### GitHub Repository
 
-https://github.com/2026-2-OSS/assign03-c01-21901037
+https://github.com/lee-jun-hyeong/assign03-c01-21901037
 
 ### Vercel Deploy URL
 
